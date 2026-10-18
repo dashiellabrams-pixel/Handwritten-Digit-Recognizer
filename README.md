@@ -1,2 +1,1 @@
-# Handwritten-Digit-Recognizer
-A convolutional neural network built with PyTorch to recognize handwritten digits using the MNIST dataset.
+This is my first AI project, built using Python and PyTorch. I made a convolutional neural network that learns to recognize handwritten digits from 0 to 9 using the MNIST dataset. I trained the model and tested it on different images, including a drawing of my own. It doesn't recognize every drawing correctly yet, but I'm hoping to improve it by experimenting with more data and different handwriting styles. This project has helped me learn a lot about how AI works and how to build and train a neural network myself. Feel free to tinker with it!
